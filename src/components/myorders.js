@@ -1,9 +1,9 @@
 import React, { Component } from "react";
 import im1 from '.Images/image1.jpg'
-import im2 from '.Images/image1.jpg'
-import im3 from '.Images/image1.jpg'
-import im4 from '.Images/image1.jpg'
-import im5 from '.Images/image1.jpg'
+import im2 from '.Images/image2.jpg'
+import im3 from '.Images/image3.jpg'
+import im4 from '.Images/image4.jpg'
+import im5 from '.Images/image5.jpg'
 
 
 class MyOrders extends Component {
